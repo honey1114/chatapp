@@ -7,6 +7,8 @@ Usage
 2.    Go to localhost:4000/register for new member or localhost:4000/entry for existing members.
 3.    Enter the user id and email you wish to appear in the Login section.
 4.    Make your friends join too on different browser (if they are on the same network).
+      (NOTE:IT IS COMPULSORY TO CLICK ON THE USER YOU WANT TO SEND MESSAGE AND NOT ON YOUR OWN EMAIL ID)
+
 
 Features
 
